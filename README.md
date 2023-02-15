@@ -1,5 +1,5 @@
 # Unemployment-Rate-Analysis
-This is a personal Exploratory Data Analysis project using the dataset from kaggle.
+This is a personal Exploratory Data Analysis project using the dataset from kaggle which include data collected over the years 1991-2021.
 I have analyzed the rate of unemployement for various countries during 5 significant employement affecting periods:
 
 1) The Dot-com bubble (1997-2001) - The rapid growth of the internet and technology industries led to a surge in employment in these sectors, but also resulted in a burst of the dot-com bubble and widespread layoffs in the early 2000s.

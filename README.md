@@ -12,4 +12,7 @@ I have analyzed the rate of unemployement for various countries during 5 signifi
 
 5) COVID-19 Pandemic (2019-2021) - The COVID-19 pandemic has had a devastating impact on the global economy and employment, leading to widespread job losses in many sectors, particularly in hospitality, travel, and retail.
 
-and lastly I have performed analysis on the top 6 most countries contributing to the GDP 
+and lastly I have performed analysis on the top 6 most countries contributing to the GDP.
+To view it on Kaggle:
+https://www.kaggle.com/code/sukreethvandrangi/unemployment-rate-analysis-eda#Data-Analysis
+
